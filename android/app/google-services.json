@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063859161901",
+    "project_id": "fluttercontacts-fe31a",
+    "storage_bucket": "fluttercontacts-fe31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063859161901:android:40753546d400fc38ae61a4",
+        "android_client_info": {
+          "package_name": "com.example.contact_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063859161901-bqpevone1av7llo5jlfejh3qe6mqjk52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv8O1AIZdx9yrYrEHnGTGWbg1zSN8YRJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063859161901-bqpevone1av7llo5jlfejh3qe6mqjk52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
